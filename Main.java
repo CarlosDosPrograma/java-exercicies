@@ -28,7 +28,7 @@ public class Main {
             System.out.println("0 para votar em branco.");
             System.out.println("1 para escolher em qual candidato votar.");
             System.out.println("2 para mostrar o resultado da votação.");
-            System.out.println("=======================");
+            System.out.println("========================");
             
             int voto = sc.nextInt();
             
